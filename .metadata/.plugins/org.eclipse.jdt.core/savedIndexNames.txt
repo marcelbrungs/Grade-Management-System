@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\marce\OneDrive\Dokumente\Java 1 Project_retake\GradeManagementSystem\.metadata\.plugins\org.eclipse.jdt.core
